@@ -1,0 +1,11 @@
+registered user bonus Under limit,100060,true,30
+registered user bonus Over limit,100000060,true,500
+Not registered user bonus Under limit,210020,false,21
+Not registered user bonus Over limit,5500050,false,500
+registered user bonus Equal limit,1669060,true,500
+Not registered user bonus Equal limit,5000060,false,500
+registered user bonus Border Left limit,1666060,true,499
+registered user bonus Border Right limit,1670000,true,500
+Not registered user bonus Border Left limit,4990000,false,499
+Not registered user bonus Border Right limit,5010000,false,500
+
